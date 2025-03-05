@@ -1,0 +1,20 @@
+{
+  "name": "pipemonster-game",
+  "version": "1.0.0",
+  "description": "Mordern take on flappy bird",
+  "homepage": "https://github.com/shinobi6800/Monster-Pipe#readme",
+  "bugs": {
+    "url": "https://github.com/shinobi6800/Monster-Pipe/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinobi6800/Monster-Pipe.git"
+  },
+  "license": "ISC",
+  "author": "Miranda NIgel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
